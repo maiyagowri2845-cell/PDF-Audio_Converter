@@ -1,0 +1,23 @@
+
+# Virtual environments
+.venv/
+.venv1/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Generated audio
+output/
+*.mp3
+
+# Environment variables
+.env
+
+# IDE settings
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
